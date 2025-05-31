@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(229, 184, 247);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(66, 15, 107);
+}
+img{
+
+background-color: azure;
+width: 150px;
+height: 100px;
+
+}
